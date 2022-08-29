@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me through Gmail: ammarmuhammad992@gmail.com
+- 🔗 Linked In https://www.linkedin.com/in/muhammad-ammar-1a50/
 
 <!---
 muhamad-ammar/muhamad-ammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
